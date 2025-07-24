@@ -2,8 +2,48 @@
   "title": "file03.pdf",
   "outline": [
     {
+      "level": "H1",
+      "text": "Ontario’s Libraries",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Working Together",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "RFP: R",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "RFP: R",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "RFP: R",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "RFP: Reeeequest f",
+      "page": 1
+    },
+    {
       "level": "H2",
-      "text": "Ontario’s Libraries \nWorking Together",
+      "text": "To Present a Proposal for Developing",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Digital Library",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "March 21, 2003",
       "page": 1
     },
     {
@@ -13,13 +53,98 @@
     },
     {
       "level": "H2",
-      "text": "A Critical Component for Implementing Ontario’s Road Map to \nProsperity Strategy",
+      "text": "A Critical Component for Implementing Ontario’s Road Map to",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Prosperity Strategy",
       "page": 2
     },
     {
       "level": "H1",
       "text": "Summary",
       "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Timeline:",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "April 21, 2003.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "RFP: To Develop the Ontario Digital Library Business Plan",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "March 2003",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Background",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "RFP: To Develop the Ontario Digital Library Business Plan",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "March 2003",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "TAL.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "The principles which will define and guide the ODL are:",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Equitable access for all Ontarians:",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Ontario citizens",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Shared decision-making and accountability:",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Shared governance structure:",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Shared funding:",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "RFP: To Develop the Ontario Digital Library Business Plan",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "March 2003",
+      "page": 4
     },
     {
       "level": "H2",
@@ -37,9 +162,124 @@
       "page": 5
     },
     {
+      "level": "H1",
+      "text": "Guidance and Advice:",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Training:",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Provincial Purchasing & Licensing:",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Technological Support:",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "What could the ODL really mean?",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "For each Ontario citizen it could mean:",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Access to credible, high-quality, user-friendly electronic services through their",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "For each Ontario student it could mean:",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Connection to their individual educational environment, whether at the",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "RFP: To Develop the Ontario Digital Library Business Plan",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "March 2003",
+      "page": 5
+    },
+    {
       "level": "H2",
       "text": "For each Ontario library it could mean:",
       "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "For the Ontario government it could mean:",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Support of the Ontario E-Learning strategy through a collaborative digital",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "ODL can be found in the appendixes.",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "The Business Plan to be Developed",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Specifically, the business plan must include:",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "RFP: To Develop the Ontario Digital Library Business Plan",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "March 2003",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Milestones",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Approach and Specific Proposal Requirements",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "The proposal should include the following information:",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "RFP: To Develop the Ontario Digital Library Business Plan",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "March 2003",
+      "page": 7
     },
     {
       "level": "H2",
@@ -47,8 +287,38 @@
       "page": 8
     },
     {
+      "level": "H1",
+      "text": "Demonstrated experience",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "Cost, including expenses",
+      "page": 8
+    },
+    {
       "level": "H2",
-      "text": "Specifically, proposals will be evaluated proposals according to the following criteria:",
+      "text": "Timeline and projected completion date",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Other relevant factors as determined by the ODL Steering Committee",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "Committee.",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "RFP: To Develop the Ontario Digital Library Business Plan",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "March 2003",
       "page": 8
     },
     {
@@ -63,80 +333,638 @@
     },
     {
       "level": "H2",
+      "text": "Timeline: March 2003 – September 2003",
+      "page": 9
+    },
+    {
+      "level": "H2",
       "text": "Result: The ODL business plan",
       "page": 9
     },
     {
       "level": "H2",
-      "text": "Appendix B: \nODL Steering Committee Terms of Reference",
+      "text": "Phase II: Implementing and Transitioning",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Timeline: April 2004 – December 2006",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Result: The ODL is implemented and validated",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Phase III: Operating and Growing the ODL",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Timeline: January 2007 -",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Funding: $50 Million annually ($35 Million requested from government)",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Result: The ODL is fully operational and sustainable",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "RFP: To Develop the Ontario Digital Library Business Plan",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "March 2003",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "OVERVIEW OF ODL FUNDING MODEL",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "Funding Source",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "Government",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "Libraries",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "Endowment",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "Gifts/In-Kind",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "TOTAL ANNUAL",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "RFP: To Develop the Ontario Digital Library Business Plan",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "March 2003",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "Appendix B:",
       "page": 11
     },
     {
       "level": "H2",
-      "text": "Appendix C: \nODL’s Envisioned Electronic Resources",
+      "text": "ODL Steering Committee Terms of Reference",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "RFP: To Develop the Ontario Digital Library Business Plan",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "March 2003",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "Desired characteristics for steering committee appointees include:",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "Strategic thinkers;",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Committed to the concept of multi-sector partnerships;",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Knowledgeable about digital libraries and resources;",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Knowledgeable about government structures;",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Respected by their communities; influential;",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Able to take a consultative approach;",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Role of the Chair:",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "RFP: To Develop the Ontario Digital Library Business Plan",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "March 2003",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Community Services Cluster, ADM’s and Deputy Ministers.",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "RFP: To Develop the Ontario Digital Library Business Plan",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "March 2003",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "Appendix C:",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "ODL’s Envisioned Electronic Resources",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "RFP: To Develop the Ontario Digital Library Business Plan",
+      "page": 14
+    },
+    {
+      "level": "H1",
+      "text": "March 2003",
       "page": 14
     }
   ],
   "sections": [
     {
-      "title": "Ontario’s Libraries \nWorking Together",
-      "summary": "RFP: R RFP: R RFP: R RFP: Reeeequest f quest f quest f quest foooor Pr r Pr r Pr r Proposal oposal oposal oposal To Present a Proposal for Developing the Business Plan for the Ontario Digital Library March 21, 2003"
+      "title": "Ontario’s Libraries",
+      "summary": "No meaningful content found."
+    },
+    {
+      "title": "Working Together",
+      "summary": "No meaningful content found."
+    },
+    {
+      "title": "RFP: R",
+      "summary": "No meaningful content found."
+    },
+    {
+      "title": "RFP: R",
+      "summary": "No meaningful content found."
+    },
+    {
+      "title": "RFP: R",
+      "summary": "No meaningful content found."
+    },
+    {
+      "title": "RFP: Reeeequest f",
+      "summary": "quest f quest f quest foooor Pr r Pr r Pr r Proposal oposal oposal oposal"
+    },
+    {
+      "title": "To Present a Proposal for Developing",
+      "summary": "the Business Plan for the Ontario"
+    },
+    {
+      "title": "Digital Library",
+      "summary": "No meaningful content found."
+    },
+    {
+      "title": "March 21, 2003",
+      "summary": "The Ontario Digital Library will make Ontario a better place to study, work and live by ensuring that all Ontario citizens have access to the knowledge and learning supports needed to be life-long learners and effective contributors towards Ontario’s prosperity."
     },
     {
       "title": "Ontario’s Digital Library",
-      "summary": ""
+      "summary": "No meaningful content found."
     },
     {
-      "title": "A Critical Component for Implementing Ontario’s Road Map to \nProsperity Strategy",
-      "summary": ""
+      "title": "A Critical Component for Implementing Ontario’s Road Map to",
+      "summary": "No meaningful content found."
+    },
+    {
+      "title": "Prosperity Strategy",
+      "summary": "No meaningful content found."
     },
     {
       "title": "Summary",
-      "summary": "This business plan must be completed and approved by the ODL Steering Committee no later than September 30, 2003 Timeline: Those firms/consultants intended to submit a proposal to this RFP must indicate their intention to do so in an e-mail to Michael Ridley (mridley@uoguelph.ca) by April 11th. Cont..."
+      "summary": "The purpose of this Request for Proposal (RFP) is to invite firms and/or consultants to present a proposal for developing the business plan for the Ontario Digital Library (ODL). The ODL will deliver high-quality library electronic content to all Ontario residents in order to assist people as they l..."
+    },
+    {
+      "title": "Timeline:",
+      "summary": "Those firms/consultants intended to submit a proposal to this RFP must indicate their intention to do so in an e-mail to Michael Ridley (mridley@uoguelph.ca) by April 11th. Proposals may be e-mailed, mailed, couriered or faxed to: Larry Moore (lmoore@accessola.com), Executive Director, The Ontario L..."
+    },
+    {
+      "title": "April 21, 2003.",
+      "summary": "Those proposals that are short-listed will be invited to discuss their proposal during the week of April 28, 2003. No presentation will be expected."
+    },
+    {
+      "title": "RFP: To Develop the Ontario Digital Library Business Plan",
+      "summary": "No meaningful content found."
+    },
+    {
+      "title": "March 2003",
+      "summary": "2222 Please note that we reserve the right not to select any of the submitted proposals and may seek further response to these Terms of Reference. If you require further information or have any questions, please contact Michael Ridley by e- mail (mridley@uoguelph.ca) only by 3:00 p.m."
+    },
+    {
+      "title": "Background",
+      "summary": "First, some background on the ODL. For the last two years the Ontario Library Association has acted as a catalyst, bringing together the stakeholders needed to create the Ontario Digital Library (ODL)."
+    },
+    {
+      "title": "RFP: To Develop the Ontario Digital Library Business Plan",
+      "summary": "No meaningful content found."
+    },
+    {
+      "title": "March 2003",
+      "summary": "3333 was incorporated in 1997 as a province-wide library consortium. TAL works collaboratively with its members to promote universal access to materials and resources in more than 250 public, post-secondary, special, government and regional libraries."
+    },
+    {
+      "title": "TAL.",
+      "summary": "The ODL will be a partnership-based organization providing seamless electronic information services and resources to the citizens of Ontario. It will use local libraries as the entry point for common resources The ODL will recognize the unique responsibilities and needs of public libraries, school l..."
+    },
+    {
+      "title": "The principles which will define and guide the ODL are:",
+      "summary": "No meaningful content found."
+    },
+    {
+      "title": "Equitable access for all Ontarians:",
+      "summary": "We will bring consistent, high-quality electronic resources and services to 10 million"
+    },
+    {
+      "title": "Ontario citizens",
+      "summary": "We will eliminate barriers to the access to information and create more consistent services for library clients."
+    },
+    {
+      "title": "Shared decision-making and accountability:",
+      "summary": "We will facilitate consensus among members regarding ODL’s portfolio of electronic licenses and services We will balance the interests and realities of small and large as well as rich and poor communities and institutions."
+    },
+    {
+      "title": "Shared governance structure:",
+      "summary": "We will share decision-making in order to enable the people we serve. We will work based on an underlying assumption of trust and synergy."
+    },
+    {
+      "title": "Shared funding:",
+      "summary": "We will leverage provincial, institutional, and local dollars to realize economies of scale and put Ontario dollars to work for everyone. We will be willing to pool talents and dollars in order to provide common services that are truly greater than those that can be maintained by individual institut..."
+    },
+    {
+      "title": "RFP: To Develop the Ontario Digital Library Business Plan",
+      "summary": "No meaningful content found."
+    },
+    {
+      "title": "March 2003",
+      "summary": "4444"
     },
     {
       "title": "Local points of entry:",
-      "summary": ""
+      "summary": "We will provide the licenses, infrastructure, services and support that enable local libraries to provide exceptional services to their clientele. ODL will focus on support, providing the underpinning, not overshadowing."
     },
     {
       "title": "Services envisioned for the ODL’s include:",
-      "summary": ""
+      "summary": "No meaningful content found."
     },
     {
       "title": "Access:",
-      "summary": "to the “deep” web (i.e. Commercial, purchased electronic services) to credible web sites and electronic resources to digital government information to local digital collections Guidance and Advice: to support e-learning to support citizens, in real-time, as they try to use electronic resources to as..."
+      "summary": "to the “deep” web (i.e. Commercial, purchased electronic services) to credible web sites and electronic resources to digital government information to local digital collections"
+    },
+    {
+      "title": "Guidance and Advice:",
+      "summary": "to support e-learning to support citizens, in real-time, as they try to use electronic resources to assist citizens as they use web-links"
+    },
+    {
+      "title": "Training:",
+      "summary": "for library workers for the general public"
+    },
+    {
+      "title": "Provincial Purchasing & Licensing:",
+      "summary": "of electronic content on a consortia basis for all member libraries"
+    },
+    {
+      "title": "Technological Support:",
+      "summary": "of common standards for the preservation and archiving local digital content of a common interface to ODL resources and services that can be imbedded in local library web sites"
+    },
+    {
+      "title": "What could the ODL really mean?",
+      "summary": "No meaningful content found."
+    },
+    {
+      "title": "For each Ontario citizen it could mean:",
+      "summary": "One local point of entry to access seamless electronic library services and resources for their personal, educational and professional needs;"
+    },
+    {
+      "title": "Access to credible, high-quality, user-friendly electronic services through their",
+      "summary": "community, school, or academic library; Confidence that the electronic services and sources they – and their children – are using are safe, valid, and bringing them both global and local perspectives; Electronic information and tools that enhance job skills and the learning experience"
+    },
+    {
+      "title": "For each Ontario student it could mean:",
+      "summary": "One local point of entry to quality, curriculum- based electronic information resources and services"
+    },
+    {
+      "title": "Connection to their individual educational environment, whether at the",
+      "summary": "elementary, secondary or post-secondary levels"
+    },
+    {
+      "title": "RFP: To Develop the Ontario Digital Library Business Plan",
+      "summary": "No meaningful content found."
+    },
+    {
+      "title": "March 2003",
+      "summary": "5555 Confidence that the services and resources people are using are credible, available when they need them and adaptable to different learning styles"
     },
     {
       "title": "For each Ontario library it could mean:",
-      "summary": "For the Ontario government it could mean: More information regarding the envisioned phasing, funding and resources required for the ODL can be found in the appendixes. The Business Plan to be Developed Specifically, the business plan must include: RFP: To Develop the Ontario Digital Library Business..."
+      "summary": "One point of entry for themselves and their clientele to quality electronic resources and services that support and enhance their collections, programs and services The opportunity to show case their local community, collections, services, and expertise The opportunity to gain from the provincial, c..."
+    },
+    {
+      "title": "For the Ontario government it could mean:",
+      "summary": "A point of entry to information services and resources for all Ontario citizens, connecting to portal initiatives."
+    },
+    {
+      "title": "Support of the Ontario E-Learning strategy through a collaborative digital",
+      "summary": "library initiative that positions Ontario on the global e-learning scene Improved access and flexibility for all students at all ages and stages (supports Ontario’s lifelong learning strategy) The opportunity to address emerging job skills shortages and facilitate school to work and job to job trans..."
+    },
+    {
+      "title": "ODL can be found in the appendixes.",
+      "summary": "No meaningful content found."
+    },
+    {
+      "title": "The Business Plan to be Developed",
+      "summary": "The business plan which needs to be developed for the ODL must be a formal business plan that documents and clearly communicates the ODL’s services, funding and governance structures, as well as implementation plans for 2004-2005, and operational plans for 2005- 2007. The planning process must also..."
+    },
+    {
+      "title": "Specifically, the business plan must include:",
+      "summary": "how the ODL will be implemented, including the timeline the financial plan for the implementation the financial plan for the first 2 operating years, including capital and operating costs, revenues, etc. a financial forecast for the succeeding 2 operating years the services and products to be delive..."
+    },
+    {
+      "title": "RFP: To Develop the Ontario Digital Library Business Plan",
+      "summary": "No meaningful content found."
+    },
+    {
+      "title": "March 2003",
+      "summary": "6666 the marketing and communications plan for the ODL the commitment of all stakeholders to their responsibilities The process of developing this business plan must be extremely consultative to ensure that all stakeholders are engaged in creating a synergistic ODL organization. The proposal must in..."
+    },
+    {
+      "title": "Milestones",
+      "summary": "1) A preliminary report will be issued during June 2003. 2) It is expected that an Interim Report, suitable for distribution to the broader library community will be available by August 1, 2003 and that there will be an opportunity for responses to be evaluated."
+    },
+    {
+      "title": "Approach and Specific Proposal Requirements",
+      "summary": "The firm/consultant (or proposed team of consultants) will be expected to work closely with the ODL Steering Committee. Terms of reference for the Committee are in the appendix."
+    },
+    {
+      "title": "The proposal should include the following information:",
+      "summary": "a) name of the firm/consultant b) names of those individuals who will be engaged in this project, their specific responsibilities on this project and relevant experience/qualifications c) description of similar engagements that highlight the firm’s experience in business planning and building stakeh..."
+    },
+    {
+      "title": "RFP: To Develop the Ontario Digital Library Business Plan",
+      "summary": "No meaningful content found."
+    },
+    {
+      "title": "March 2003",
+      "summary": "7777"
     },
     {
       "title": "Evaluation and Awarding of Contract",
-      "summary": ""
+      "summary": "The contract will be awarded to the bidder whose submission offers the best value; the contract will not necessarily be awarded to the lowest bidder. We reserve the right not to award the contract to any of the bidders responding to this RFP and we may seek further response."
     },
     {
-      "title": "Specifically, proposals will be evaluated proposals according to the following criteria:",
-      "summary": "Questions regarding this RFP should be directed by e-mail only to Michael Ridley (mridley@uoguelph.ca). Bidders are asked not to contact any other member of the ODL Catalyst Team or the ODL Steering Committee."
+      "title": "Demonstrated experience",
+      "summary": "No meaningful content found."
+    },
+    {
+      "title": "Cost, including expenses",
+      "summary": "No meaningful content found."
+    },
+    {
+      "title": "Timeline and projected completion date",
+      "summary": "No meaningful content found."
+    },
+    {
+      "title": "Other relevant factors as determined by the ODL Steering Committee",
+      "summary": "Questions regarding this RFP should be directed by e-mail only to Michael Ridley (mridley@uoguelph.ca). Bidders are asked not to contact any other member of the ODL Catalyst Team or the ODL Steering"
+    },
+    {
+      "title": "Committee.",
+      "summary": "No meaningful content found."
+    },
+    {
+      "title": "RFP: To Develop the Ontario Digital Library Business Plan",
+      "summary": "No meaningful content found."
+    },
+    {
+      "title": "March 2003",
+      "summary": "8888"
     },
     {
       "title": "Appendix A:  ODL Envisioned Phases & Funding",
-      "summary": ""
+      "summary": "No meaningful content found."
     },
     {
       "title": "Phase I:  Business Planning",
-      "summary": "Timeline: March 2003 – September 2003 Funding Requested: ~$100,000 jointly funded by stakeholder groups and the provincial government."
+      "summary": "No meaningful content found."
+    },
+    {
+      "title": "Timeline: March 2003 – September 2003",
+      "summary": "Funding Requested: ~$100,000 jointly funded by stakeholder groups and the provincial government."
     },
     {
       "title": "Result: The ODL business plan",
-      "summary": "Phase II: Implementing and Transitioning Result: The ODL is implemented and validated Phase III: Operating and Growing the ODL Timeline: January 2007 - Funding: $50 Million annually ($35 Million requested from government) Result: The ODL is fully operational and sustainable RFP: To Develop the Ontar..."
+      "summary": "The first phase will be to build the ODL business plan. This plan will clearly define the ODL’s services, funding and governance structures, as well as implementation plans for 2003-2005."
     },
     {
-      "title": "Appendix B: \nODL Steering Committee Terms of Reference",
-      "summary": "1. Preamble 2."
+      "title": "Phase II: Implementing and Transitioning",
+      "summary": "No meaningful content found."
     },
     {
-      "title": "Appendix C: \nODL’s Envisioned Electronic Resources",
-      "summary": "1. Reference Resources 2."
+      "title": "Timeline: April 2004 – December 2006",
+      "summary": "Funding Requested: Funding from other states and provinces suggest that the ODL could receive funding of up to $50 Million (over 3 years). Funding to be provided partnership of government, library stakeholders and other interested parties."
+    },
+    {
+      "title": "Result: The ODL is implemented and validated",
+      "summary": "The second phase will be to implement the ODL based on the business plan. This phase recognizes that for ODL to be optimally successful libraries must transition to a new way of doing business and providing services."
+    },
+    {
+      "title": "Phase III: Operating and Growing the ODL",
+      "summary": "No meaningful content found."
+    },
+    {
+      "title": "Timeline: January 2007 -",
+      "summary": "No meaningful content found."
+    },
+    {
+      "title": "Funding: $50 Million annually ($35 Million requested from government)",
+      "summary": "No meaningful content found."
+    },
+    {
+      "title": "Result: The ODL is fully operational and sustainable",
+      "summary": "In the third phase the ODL moves into the operational stage. Ontarians will experience the full benefits of the initiative and libraries will consolidate support around the ODL to grow resources and extend"
+    },
+    {
+      "title": "RFP: To Develop the Ontario Digital Library Business Plan",
+      "summary": "No meaningful content found."
+    },
+    {
+      "title": "March 2003",
+      "summary": "9999 capabilities. The challenge is to secure resources sufficient to both sustain the original investments and to enhance the ODL."
+    },
+    {
+      "title": "OVERVIEW OF ODL FUNDING MODEL",
+      "summary": "No meaningful content found."
+    },
+    {
+      "title": "Funding Source",
+      "summary": "2007 2017"
+    },
+    {
+      "title": "Government",
+      "summary": "$35M (70%) $33.75M (45%)"
+    },
+    {
+      "title": "Libraries",
+      "summary": "$10M (20%) $22.5M (30%)"
+    },
+    {
+      "title": "Endowment",
+      "summary": "$4.5M (9%) $15M (20%)"
+    },
+    {
+      "title": "Gifts/In-Kind",
+      "summary": "$0.5M (1%) $3.75M (5%)"
+    },
+    {
+      "title": "TOTAL ANNUAL",
+      "summary": "$50M $75M While the private sector will be invited to participate in the ODL through the endowment, gifts and in- kind contributions, the ODL will also explore compatible commercial services which leverage the reach of the ODL and help to offset operating costs. A $50M budget leverages the consortiu..."
+    },
+    {
+      "title": "RFP: To Develop the Ontario Digital Library Business Plan",
+      "summary": "No meaningful content found."
+    },
+    {
+      "title": "March 2003",
+      "summary": "10 10 10 10"
+    },
+    {
+      "title": "Appendix B:",
+      "summary": "No meaningful content found."
+    },
+    {
+      "title": "ODL Steering Committee Terms of Reference",
+      "summary": "1. Preamble Implementation of the Ontario Digital Library (ODL) requires a detailed business plan to be developed and supported by its diverse stakeholder communities (see: www.odl.on.ca)."
+    },
+    {
+      "title": "RFP: To Develop the Ontario Digital Library Business Plan",
+      "summary": "No meaningful content found."
+    },
+    {
+      "title": "March 2003",
+      "summary": "11 11 11 11 3.5 Ontario Library Association representative (ex-officio) (OLA to appoint one representative) - Role of the OLA ex-officio member: To act as a liaison between the steering committee and the OLA Board, and to assist the chair with the administrative responsibilities connected with the p..."
+    },
+    {
+      "title": "Desired characteristics for steering committee appointees include:",
+      "summary": "No meaningful content found."
+    },
+    {
+      "title": "Strategic thinkers;",
+      "summary": "No meaningful content found."
+    },
+    {
+      "title": "Committed to the concept of multi-sector partnerships;",
+      "summary": "No meaningful content found."
+    },
+    {
+      "title": "Knowledgeable about digital libraries and resources;",
+      "summary": "No meaningful content found."
+    },
+    {
+      "title": "Knowledgeable about government structures;",
+      "summary": "No meaningful content found."
+    },
+    {
+      "title": "Respected by their communities; influential;",
+      "summary": "No meaningful content found."
+    },
+    {
+      "title": "Able to take a consultative approach;",
+      "summary": "Able to devote time to Steering Committee business: approximately one day per month for meetings plus 2-3 working days per month on related activities. 5."
+    },
+    {
+      "title": "Role of the Chair:",
+      "summary": "In addition to the characteristics for appointees (4.2) the role of the chair will be as a process agent working with the selected consultant(s), OLA, and the Steering Committee to prepare the business plan. The chair must be able to devote 5-8 days per month on activities related to the preparation..."
+    },
+    {
+      "title": "RFP: To Develop the Ontario Digital Library Business Plan",
+      "summary": "No meaningful content found."
+    },
+    {
+      "title": "March 2003",
+      "summary": "12 12 12 12 8.3 The Steering Committee is accountable to its constituent groups and other stakeholders for ongoing communications and consultation on issues and progress. The Steering committee is responsible for strong liaison with government particularly the Chief Information Officer"
+    },
+    {
+      "title": "Community Services Cluster, ADM’s and Deputy Ministers.",
+      "summary": "9. Financial and Administrative Policies 9.1 Service on the Steering Committee is non-remunerative 9.2 Travel and meeting expenses for Steering Committee members are reimbursed according to the policies of the Ontario Library Association 9.3 Conflict of Interest: The ODL Steering Committee will func..."
+    },
+    {
+      "title": "RFP: To Develop the Ontario Digital Library Business Plan",
+      "summary": "No meaningful content found."
+    },
+    {
+      "title": "March 2003",
+      "summary": "13 13 13 13"
+    },
+    {
+      "title": "Appendix C:",
+      "summary": "No meaningful content found."
+    },
+    {
+      "title": "ODL’s Envisioned Electronic Resources",
+      "summary": "The purpose of the ODL is to provide equal access to information for all Ontario citizens through collaboration and resource sharing. ODL will be a portal - capable of customization as a home page for local libraries - to organized, comprehensive, authoritative and validated e-information resources..."
+    },
+    {
+      "title": "RFP: To Develop the Ontario Digital Library Business Plan",
+      "summary": "No meaningful content found."
+    },
+    {
+      "title": "March 2003",
+      "summary": "14 14 14 14"
     }
   ]
 }

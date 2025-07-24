@@ -2,6 +2,26 @@
   "title": "rules.pdf",
   "outline": [
     {
+      "level": "H1",
+      "text": "A",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "ADOBE INDIA",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "HACKATHON",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "CONNECTING THE DOTS...",
+      "page": 1
+    },
+    {
       "level": "H2",
       "text": "Welcome to the “Connecting the Dots” Challenge",
       "page": 2
@@ -9,6 +29,31 @@
     {
       "level": "H2",
       "text": "Rethink Reading. Rediscover Knowledge",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "PDF as an intelligent, interactive experience—one that understands structure,",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "The Journey Ahead",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "It’s showtime! Build a beautiful, intuitive reading webapp using Adobe’s",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Why This Matters",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Are you in?",
       "page": 2
     },
     {
@@ -27,8 +72,83 @@
       "page": 3
     },
     {
+      "level": "H2",
+      "text": "H3 — in a clean, hierarchical format.",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Why This Matters",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "PDFs are everywhere — but machines don’t naturally understand their",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "What You Need to Build",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "You must build a solution that:",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "You Will Be Provided",
+      "page": 3
+    },
+    {
       "level": "H1",
       "text": "Docker Requirements",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Dockerfile to explicitly specify the platform: FROM --",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Expected Execution",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "We will build the docker image using the following command:",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Your container should:",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Constraints",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Constraint",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Requirement",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Execution",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "PDF",
       "page": 4
     },
     {
@@ -37,13 +157,83 @@
       "page": 5
     },
     {
-      "level": "H2",
-      "text": "Network  \nNo internet access \nallowed",
+      "level": "H1",
+      "text": "Network",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "No internet access",
       "page": 5
     },
     {
       "level": "H1",
       "text": "Runtime",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Must run on CPU (amd64),",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Scoring Criteria",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Criteria",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Max",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Points",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Heading Detection Accuracy (Precision +",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Recall)",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Performance (Time & Size Compliance)",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Bonus: Multilingual Handling (e.g.,",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Japanese)",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Total",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Submission Checklist",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Pro Tips",
       "page": 5
     },
     {
@@ -67,8 +257,48 @@
       "page": 7
     },
     {
+      "level": "H1",
+      "text": "Input Specification",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Salesperson, Journalist, Entrepreneur etc)",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "Sample Test Cases",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Test Case 1: Academic Research",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "Drug Discovery\"",
+      "page": 7
+    },
+    {
       "level": "H2",
       "text": "Test Case 2: Business Analysis",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Test Case 3: Educational Content",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "Required Output",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "The output should contain:",
       "page": 8
     },
     {
@@ -83,46 +313,248 @@
     },
     {
       "level": "H1",
+      "text": "Scoring Criteria",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "Criteria",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "Max",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "Points",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "Description",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "Section Relevance",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "How well selected sections match",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "Sub-Section Relevance",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Quality of granular subsection",
+      "page": 9
+    },
+    {
+      "level": "H1",
       "text": "Appendix:",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "Hackathon25.git",
       "page": 10
     }
   ],
   "sections": [
     {
+      "title": "A",
+      "summary": "No meaningful content found."
+    },
+    {
+      "title": "ADOBE INDIA",
+      "summary": "No meaningful content found."
+    },
+    {
+      "title": "HACKATHON",
+      "summary": "No meaningful content found."
+    },
+    {
+      "title": "CONNECTING THE DOTS...",
+      "summary": "No meaningful content found."
+    },
+    {
       "title": "Welcome to the “Connecting the Dots” Challenge",
-      "summary": ""
+      "summary": "No meaningful content found."
     },
     {
       "title": "Rethink Reading. Rediscover Knowledge",
       "summary": "What if every time you opened a PDF, it didn’t just sit there—it spoke to you, connected ideas, and narrated meaning across your entire library? That’s the future we’re building — and we want you to help shape it."
     },
     {
+      "title": "PDF as an intelligent, interactive experience—one that understands structure,",
+      "summary": "surfaces insights, and responds to you like a trusted research companion."
+    },
+    {
+      "title": "The Journey Ahead",
+      "summary": "Round 1: Kick things off by building the brains — extract structured outlines from raw PDFs with blazing speed and pinpoint accuracy. Then, power it up with on-device intelligence that understands sections and links related ideas together."
+    },
+    {
+      "title": "It’s showtime! Build a beautiful, intuitive reading webapp using Adobe’s",
+      "summary": "PDF Embed API. You will be using your Round 1 work to design a futuristic webapp."
+    },
+    {
+      "title": "Why This Matters",
+      "summary": "In a world flooded with documents, what wins is not more content — it’s context. You’re not just building tools — you’re building the future of how we read, learn, and connect."
+    },
+    {
+      "title": "Are you in?",
+      "summary": "It’s time to read between the lines. Connect the dots."
+    },
+    {
       "title": "Round 1A: Understand Your Document",
-      "summary": ""
+      "summary": "No meaningful content found."
     },
     {
       "title": "Challenge Theme: Connecting the Dots Through Docs",
-      "summary": ""
+      "summary": "No meaningful content found."
     },
     {
       "title": "Your Mission",
-      "summary": "This outline will be the foundation for the rest of your hackathon journey. Why This Matters What You Need to Build You must build a solution that: Accepts a PDF file (up to 50 pages) Extracts: o Title o Headings: H1, H2, H3 (with level and page number) Outputs a valid JSON file in the format below:..."
+      "summary": "You're handed a PDF — but instead of simply reading it, you're tasked with making sense of it like a machine would. Your job is to extract a structured outline of the document — essentially the Title, and headings like H1, H2, and"
+    },
+    {
+      "title": "H3 — in a clean, hierarchical format.",
+      "summary": "This outline will be the foundation for the rest of your hackathon journey."
+    },
+    {
+      "title": "Why This Matters",
+      "summary": "No meaningful content found."
+    },
+    {
+      "title": "PDFs are everywhere — but machines don’t naturally understand their",
+      "summary": "structure. By building an outline extractor, you’re enabling smarter document experiences, like semantic search, recommendation systems, and insight generation."
+    },
+    {
+      "title": "What You Need to Build",
+      "summary": "No meaningful content found."
+    },
+    {
+      "title": "You must build a solution that:",
+      "summary": "Accepts a PDF file (up to 50 pages) Extracts: o Title o Headings: H1, H2, H3 (with level and page number) Outputs a valid JSON file in the format below: { \"title\": \"Understanding AI\", \"outline\": [ { \"level\": \"H1\", \"text\": \"Introduction\", \"page\": 1 }, { \"level\": \"H2\", \"text\": \"What is AI?\", \"page\": 2..."
+    },
+    {
+      "title": "You Will Be Provided",
+      "summary": "1. A sample input PDF (e.g., sample.pdf) 2."
     },
     {
       "title": "Docker Requirements",
-      "summary": "CPU architecture: amd64 (x86_64) No GPU dependencies Model size (if used) ≤ 200MB Should work offline — no network/internet calls Expected Execution We will build the docker image using the following command: ```docker build --platform linux/amd64 -t mysolutionname:somerandomidentifier``` After buil..."
+      "summary": "Please ensure your Dockerfile is compatible with AMD64 architecture. Since we will build and run the image on an AMD64 machine, your base image and any dependencies should support linux/amd64."
+    },
+    {
+      "title": "Dockerfile to explicitly specify the platform: FROM --",
+      "summary": "platform=linux/amd64 <base_image> CPU architecture: amd64 (x86_64) No GPU dependencies Model size (if used) ≤ 200MB Should work offline — no network/internet calls"
+    },
+    {
+      "title": "Expected Execution",
+      "summary": "No meaningful content found."
+    },
+    {
+      "title": "We will build the docker image using the following command:",
+      "summary": "```docker build --platform linux/amd64 -t mysolutionname:somerandomidentifier``` After building the image, we will run the solution using the run command specified in the submitted instructions. ```docker run --rm -v $(pwd)/input:/app/input -v $(pwd)/output:/app/output -- network none mysolutionname..."
+    },
+    {
+      "title": "Your container should:",
+      "summary": "Automatically process all PDFs from /app/input directory, generating a corresponding filename.json in /app/output for each filename.pdf output.json"
+    },
+    {
+      "title": "Constraints",
+      "summary": "No meaningful content found."
+    },
+    {
+      "title": "Constraint",
+      "summary": "No meaningful content found."
+    },
+    {
+      "title": "Requirement",
+      "summary": "No meaningful content found."
+    },
+    {
+      "title": "Execution",
+      "summary": "time ≤ 10 seconds for a 50-page"
+    },
+    {
+      "title": "PDF",
+      "summary": "No meaningful content found."
     },
     {
       "title": "Model size  ≤ 200MB (if used)",
-      "summary": ""
+      "summary": "No meaningful content found."
     },
     {
-      "title": "Network  \nNo internet access \nallowed",
-      "summary": ""
+      "title": "Network",
+      "summary": "No meaningful content found."
+    },
+    {
+      "title": "No internet access",
+      "summary": "allowed"
     },
     {
       "title": "Runtime",
-      "summary": "Must run on CPU (amd64), your solution should run on the system with 8 CPUs and 16 GB RAM configurations Scoring Criteria Criteria Max Points Heading Detection Accuracy (Precision + Recall) 25 Performance (Time & Size Compliance) 10 Bonus: Multilingual Handling (e.g., Japanese) 10 Total 45 Submissio..."
+      "summary": "No meaningful content found."
+    },
+    {
+      "title": "Must run on CPU (amd64),",
+      "summary": "your solution should run on the system with 8 CPUs and 16 GB RAM configurations"
+    },
+    {
+      "title": "Scoring Criteria",
+      "summary": "No meaningful content found."
+    },
+    {
+      "title": "Criteria",
+      "summary": "No meaningful content found."
+    },
+    {
+      "title": "Max",
+      "summary": "No meaningful content found."
+    },
+    {
+      "title": "Points",
+      "summary": "No meaningful content found."
+    },
+    {
+      "title": "Heading Detection Accuracy (Precision +",
+      "summary": "No meaningful content found."
+    },
+    {
+      "title": "Recall)",
+      "summary": "25"
+    },
+    {
+      "title": "Performance (Time & Size Compliance)",
+      "summary": "10"
+    },
+    {
+      "title": "Bonus: Multilingual Handling (e.g.,",
+      "summary": "No meaningful content found."
+    },
+    {
+      "title": "Japanese)",
+      "summary": "10"
+    },
+    {
+      "title": "Total",
+      "summary": "45"
+    },
+    {
+      "title": "Submission Checklist",
+      "summary": "1. Git Project with a working Dockerfile in the root director and 2."
+    },
+    {
+      "title": "Pro Tips",
+      "summary": "Don’t rely solely on font sizes for heading level determination — headings in some PDFs break that assumption. Test your solution across both simple and complex PDFs."
     },
     {
       "title": "What Not to Do",
@@ -130,19 +562,51 @@
     },
     {
       "title": "Round 1B: Persona-Driven Document Intelligence",
-      "summary": ""
+      "summary": "No meaningful content found."
     },
     {
       "title": "Theme: “Connect What Matters — For the User Who Matters”",
-      "summary": ""
+      "summary": "No meaningful content found."
     },
     {
       "title": "Challenge Brief (For Participants)",
-      "summary": "Input Specification 2. Document Collection: 3-10 related PDFs Persona Definition: Role description with specific expertise and focus areas 3."
+      "summary": "You will build a system that acts as an intelligent document analyst, extracting and prioritizing the most relevant sections from a collection of documents based on a specific persona and their job-to-be-done."
+    },
+    {
+      "title": "Input Specification",
+      "summary": "2. Document Collection: 3-10 related PDFs Persona Definition: Role description with specific expertise and focus areas 3."
+    },
+    {
+      "title": "Salesperson, Journalist, Entrepreneur etc)",
+      "summary": "Job-to-be-done: This will be related to the persona (Example: Provide a literature review for a given topic and available research papers, What should I study for Organic Chemistry given the chemistry documents, Summarize the financials of corporation xyz given the detailed year end financial report..."
+    },
+    {
+      "title": "Sample Test Cases",
+      "summary": "No meaningful content found."
+    },
+    {
+      "title": "Test Case 1: Academic Research",
+      "summary": "Documents: 4 research papers on \"Graph Neural Networks for"
+    },
+    {
+      "title": "Drug Discovery\"",
+      "summary": "Persona: PhD Researcher in Computational Biology Job: \"Prepare a comprehensive literature review focusing on methodologies, datasets, and performance benchmarks\""
     },
     {
       "title": "Test Case 2: Business Analysis",
-      "summary": "Documents: 3 annual reports from competing tech companies (2022-2024) Persona: Investment Analyst Job: \"Analyze revenue trends, R&D investments, and market positioning strategies\" Test Case 3: Educational Content Documents: 5 chapters from organic chemistry textbooks Persona: Undergraduate Chemistry..."
+      "summary": "Documents: 3 annual reports from competing tech companies (2022-2024) Persona: Investment Analyst Job: \"Analyze revenue trends, R&D investments, and market positioning strategies\""
+    },
+    {
+      "title": "Test Case 3: Educational Content",
+      "summary": "Documents: 5 chapters from organic chemistry textbooks Persona: Undergraduate Chemistry Student Job: \"Identify key concepts and mechanisms for exam preparation on reaction kinetics\""
+    },
+    {
+      "title": "Required Output",
+      "summary": "Output JSON format: Refer challenge1b_output.json"
+    },
+    {
+      "title": "The output should contain:",
+      "summary": "1. Metadata: a."
     },
     {
       "title": "Deliverables",
@@ -150,11 +614,51 @@
     },
     {
       "title": "Sample input/output for testing",
-      "summary": "Scoring Criteria Criteria Max Points Description Section Relevance 60 How well selected sections match persona + job requirements with proper stack ranking Sub-Section Relevance 40 Quality of granular subsection extraction and ranking"
+      "summary": "No meaningful content found."
+    },
+    {
+      "title": "Scoring Criteria",
+      "summary": "No meaningful content found."
+    },
+    {
+      "title": "Criteria",
+      "summary": "No meaningful content found."
+    },
+    {
+      "title": "Max",
+      "summary": "No meaningful content found."
+    },
+    {
+      "title": "Points",
+      "summary": "No meaningful content found."
+    },
+    {
+      "title": "Description",
+      "summary": "No meaningful content found."
+    },
+    {
+      "title": "Section Relevance",
+      "summary": "60"
+    },
+    {
+      "title": "How well selected sections match",
+      "summary": "persona + job requirements with proper stack ranking"
+    },
+    {
+      "title": "Sub-Section Relevance",
+      "summary": "40"
+    },
+    {
+      "title": "Quality of granular subsection",
+      "summary": "extraction and ranking"
     },
     {
       "title": "Appendix:",
-      "summary": "https://github.com/jhaaj08/Adobe-India- Hackathon25.git"
+      "summary": "https://github.com/jhaaj08/Adobe-India-"
+    },
+    {
+      "title": "Hackathon25.git",
+      "summary": "No meaningful content found."
     }
   ]
 }

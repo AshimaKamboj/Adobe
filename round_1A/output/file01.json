@@ -8,6 +8,16 @@
     },
     {
       "level": "H2",
+      "text": "Name of the Government Servant",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Designation",
+      "page": 1
+    },
+    {
+      "level": "H2",
       "text": "Date of entering the Central Government",
       "page": 1
     },
@@ -15,20 +25,163 @@
       "level": "H1",
       "text": "Service",
       "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "PAY + SI + NPA",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Whether permanent or temporary",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Home Town as recorded in the Service Book",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Whether wife / husband is employed and if",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Whether the concession is to be availed for",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "LTC is to be availed.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "India, the place to be visited.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Single",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "S.No",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Name",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Age",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Relationship",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Rs.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Date",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Signature of Government Servant.",
+      "page": 1
     }
   ],
   "sections": [
     {
       "title": "Application form for grant of LTC advance",
-      "summary": "1. Name of the Government Servant 2."
+      "summary": "1."
+    },
+    {
+      "title": "Name of the Government Servant",
+      "summary": "2."
+    },
+    {
+      "title": "Designation",
+      "summary": "3."
     },
     {
       "title": "Date of entering the Central Government",
-      "summary": ""
+      "summary": "No meaningful content found."
     },
     {
       "title": "Service",
-      "summary": "4. PAY + SI + NPA 5."
+      "summary": "4."
+    },
+    {
+      "title": "PAY + SI + NPA",
+      "summary": "5."
+    },
+    {
+      "title": "Whether permanent or temporary",
+      "summary": "6."
+    },
+    {
+      "title": "Home Town as recorded in the Service Book",
+      "summary": "7."
+    },
+    {
+      "title": "Whether wife / husband is employed and if",
+      "summary": "so whether entitled to LTC 8."
+    },
+    {
+      "title": "Whether the concession is to be availed for",
+      "summary": "visiting home town and if so block for which"
+    },
+    {
+      "title": "LTC is to be availed.",
+      "summary": "9. (a) If the concession is to visit anywhere in"
+    },
+    {
+      "title": "India, the place to be visited.",
+      "summary": "(b) Block for which to be availed. 10."
+    },
+    {
+      "title": "Single",
+      "summary": "rail fare/bus fare from the headquarters to home town/place of visit by shortest route. 11."
+    },
+    {
+      "title": "S.No",
+      "summary": "No meaningful content found."
+    },
+    {
+      "title": "Name",
+      "summary": "No meaningful content found."
+    },
+    {
+      "title": "Age",
+      "summary": "No meaningful content found."
+    },
+    {
+      "title": "Relationship",
+      "summary": "1. 2."
+    },
+    {
+      "title": "Rs.",
+      "summary": "I declare that the particulars furnished above are true and correct to the best of my knowledge. I undertake to produce the tickets for the outward journey within ten days of receipt of the advance."
+    },
+    {
+      "title": "Date",
+      "summary": "No meaningful content found."
+    },
+    {
+      "title": "Signature of Government Servant.",
+      "summary": "No meaningful content found."
     }
   ]
 }
