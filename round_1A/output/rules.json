@@ -1,0 +1,160 @@
+{
+  "title": "rules.pdf",
+  "outline": [
+    {
+      "level": "H2",
+      "text": "Welcome to the “Connecting the Dots” Challenge",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Rethink Reading. Rediscover Knowledge",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Round 1A: Understand Your Document",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Challenge Theme: Connecting the Dots Through Docs",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Your Mission",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Docker Requirements",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Model size  ≤ 200MB (if used)",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Network  \nNo internet access \nallowed",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Runtime",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "What Not to Do",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Round 1B: Persona-Driven Document Intelligence",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Theme: “Connect What Matters — For the User Who Matters”",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Challenge Brief (For Participants)",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Test Case 2: Business Analysis",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "Deliverables",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Sample input/output for testing",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "Appendix:",
+      "page": 10
+    }
+  ],
+  "sections": [
+    {
+      "title": "Welcome to the “Connecting the Dots” Challenge",
+      "summary": ""
+    },
+    {
+      "title": "Rethink Reading. Rediscover Knowledge",
+      "summary": "What if every time you opened a PDF, it didn’t just sit there—it spoke to you, connected ideas, and narrated meaning across your entire library? That’s the future we’re building — and we want you to help shape it."
+    },
+    {
+      "title": "Round 1A: Understand Your Document",
+      "summary": ""
+    },
+    {
+      "title": "Challenge Theme: Connecting the Dots Through Docs",
+      "summary": ""
+    },
+    {
+      "title": "Your Mission",
+      "summary": "This outline will be the foundation for the rest of your hackathon journey. Why This Matters What You Need to Build You must build a solution that: Accepts a PDF file (up to 50 pages) Extracts: o Title o Headings: H1, H2, H3 (with level and page number) Outputs a valid JSON file in the format below:..."
+    },
+    {
+      "title": "Docker Requirements",
+      "summary": "CPU architecture: amd64 (x86_64) No GPU dependencies Model size (if used) ≤ 200MB Should work offline — no network/internet calls Expected Execution We will build the docker image using the following command: ```docker build --platform linux/amd64 -t mysolutionname:somerandomidentifier``` After buil..."
+    },
+    {
+      "title": "Model size  ≤ 200MB (if used)",
+      "summary": ""
+    },
+    {
+      "title": "Network  \nNo internet access \nallowed",
+      "summary": ""
+    },
+    {
+      "title": "Runtime",
+      "summary": "Must run on CPU (amd64), your solution should run on the system with 8 CPUs and 16 GB RAM configurations Scoring Criteria Criteria Max Points Heading Detection Accuracy (Precision + Recall) 25 Performance (Time & Size Compliance) 10 Bonus: Multilingual Handling (e.g., Japanese) 10 Total 45 Submissio..."
+    },
+    {
+      "title": "What Not to Do",
+      "summary": "Do not hardcode headings or file-specific logic Do not make API or web calls Do not exceed the runtime/model size constraints [[Public Dataset Folder]] (For Sample Input and Output Files, please refer to the appendix)"
+    },
+    {
+      "title": "Round 1B: Persona-Driven Document Intelligence",
+      "summary": ""
+    },
+    {
+      "title": "Theme: “Connect What Matters — For the User Who Matters”",
+      "summary": ""
+    },
+    {
+      "title": "Challenge Brief (For Participants)",
+      "summary": "Input Specification 2. Document Collection: 3-10 related PDFs Persona Definition: Role description with specific expertise and focus areas 3."
+    },
+    {
+      "title": "Test Case 2: Business Analysis",
+      "summary": "Documents: 3 annual reports from competing tech companies (2022-2024) Persona: Investment Analyst Job: \"Analyze revenue trends, R&D investments, and market positioning strategies\" Test Case 3: Educational Content Documents: 5 chapters from organic chemistry textbooks Persona: Undergraduate Chemistry..."
+    },
+    {
+      "title": "Deliverables",
+      "summary": "approach_explanation.md (300-500 words explaining methodology) Dockerfile and execution instructions"
+    },
+    {
+      "title": "Sample input/output for testing",
+      "summary": "Scoring Criteria Criteria Max Points Description Section Relevance 60 How well selected sections match persona + job requirements with proper stack ranking Sub-Section Relevance 40 Quality of granular subsection extraction and ranking"
+    },
+    {
+      "title": "Appendix:",
+      "summary": "https://github.com/jhaaj08/Adobe-India- Hackathon25.git"
+    }
+  ]
+}

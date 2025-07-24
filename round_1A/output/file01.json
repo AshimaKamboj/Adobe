@@ -1,0 +1,34 @@
+{
+  "title": "file01.pdf",
+  "outline": [
+    {
+      "level": "H2",
+      "text": "Application form for grant of LTC advance",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Date of entering the Central Government",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Service",
+      "page": 1
+    }
+  ],
+  "sections": [
+    {
+      "title": "Application form for grant of LTC advance",
+      "summary": "1. Name of the Government Servant 2."
+    },
+    {
+      "title": "Date of entering the Central Government",
+      "summary": ""
+    },
+    {
+      "title": "Service",
+      "summary": "4. PAY + SI + NPA 5."
+    }
+  ]
+}
