@@ -79,8 +79,8 @@ __outputs__/
 *.tmp
 
 # Ignore sample inputs/outputs
-sample_inputs/
-sample_outputs/
+# sample_inputs/
+# sample_outputs/
 
 # GitHub Codespaces
 .gitpod.yml
