@@ -69,14 +69,14 @@ Desktop.ini
 *.log
 
 # PDF or image build outputs
-_build/
-*.pdf
+# _build/
+# *.pdf
 
 # Project-specific
-output/
-__outputs__/
-*.out
-*.tmp
+# output/
+# __outputs__/
+# *.out
+# *.tmp
 
 # Ignore sample inputs/outputs
 # sample_inputs/
